@@ -1,0 +1,7 @@
+streamlit
+pinecone-client
+sentence-transformers
+langchain
+pypdf
+transformers
+torch
